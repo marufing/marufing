@@ -1,14 +1,14 @@
 <div align="left">
-  <p>Hi there, I'm a full-stack web developer living in Dhaka, Bangladesh.</p>
+  <p>Hi there, I'm a full-stack software engnieer living in Dhaka, Bangladesh.</p>
 
 - I currently work at [FringeCore_](https://github.com/fringecore) as a Software Engineer
 - I use JavaScript (especially React) daily
 - I’m currently learning **Devops**
-- All of my projects are available at [maruf's workspace](https://marufmarzuq.vercel.app/work)
+- All of my projects are available at [maruf's workspace](https://www.marufincode.com/work)
 - I'm mostly active within the React community
 - I'm interested in Javascript, React, Web3, cryptocurrencies, and anything tech.
 
-Check out my [portfolio](https://marufmarzuq.vercel.app) for more information.
+Check out my [portfolio](https://www.marufincode.com) for more information.
 </div>
 <br/>
 <div>
@@ -20,4 +20,4 @@ Check out my [portfolio](https://marufmarzuq.vercel.app) for more information.
 </div>
 <br/>
 <br/>
-<p><img  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=marufmarzuq&theme=transparent&hide_border=true&hide_current_streak=true" alt="marufmarzuq" /></p>
+<p><img  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=marufincode&theme=transparent&hide_border=true&hide_current_streak=true" alt="marufincode" /></p>
