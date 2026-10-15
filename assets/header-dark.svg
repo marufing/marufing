@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="maruf.ing — builds, fixes, writes.">
+  <g fill="none" stroke="#f0f0f0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2" transform="translate(0 6) scale(0.6875)">
+    <rect x="4" y="4" width="56" height="56" rx="13"/>
+    <path d="M18 42V26M18 30c0-3.2 2-5 4.6-5s4.6 1.8 4.6 5v12M27.2 30c0-3.2 2-5 4.6-5s4.6 1.8 4.6 5v12"/>
+    <path d="M41.5 44.5L48 22.5"/>
+  </g>
+  <text x="58" y="35" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="500" fill="#f0f0f0">maruf<tspan fill="#8b949e">.ing</tspan></text>
+  <text x="900" y="35" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#8b949e">v5 · still in beta</text>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#f0f0f0">
+    <text x="0" y="165">builds,</text>
+    <text x="222" y="165" fill="#5a5f66">breaks</text>
+    <rect x="451" y="117" width="148" height="64" rx="10" fill="#2b3036"/>
+    <text x="462" y="165">fixes,</text>
+    <text x="622" y="165">writes.</text>
+  </g>
+  <line x1="219" y1="146" x2="420" y2="146" stroke="#5a5f66" stroke-width="5"/>
+  <text x="0" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#8b949e">mostly boring systems. go, postgres, redis, typescript.</text>
+</svg>
